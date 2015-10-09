@@ -1,0 +1,13 @@
+some answers:
+
+1. Both blocks are set to the right of the page.
+2. Both blocks are set to the left of the page.
+3. testDiv1 is on the right of the page, testDiv2 is on the left.
+4. testDiv1 becomes wider, a longer rectangle.
+5. 43%
+6. Div2 is pushed down below Div1. Both Divs' widths are decreased.
+7. Increasing margin or padding means that the width must decrease, and vice versa.
+8.  
+9.
+10.
+11.

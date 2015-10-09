@@ -1,13 +1,24 @@
 #testDiv1 {
-  width: 35%;
+  width: 10%;
   font-size: 1em;
   padding: 1em;
   margin: 2em;
+  float:left;
+
 }
 
 #testDiv2 {
-  width: 35%;
+  width: 30%;
   font-size: 1em;
   padding: 1em;
   margin: 2em;
+  float:right;
+}
+
+#testDiv3 {
+  width: 10%
+  font-size: 1em;
+  padding: 1em;
+  margin: 2em;
+  float: inherit;
 }
