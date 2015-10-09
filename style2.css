@@ -22,3 +22,24 @@
   margin: 2em;
   float: inherit;
 }
+
+#list1 {
+  list-style: none;
+  border: red solid;
+  padding: 0px;
+}
+
+#list1 li {
+  border: dashed black;
+  padding: 10px;
+  width: 200px;
+  margin: 20px;
+  display: inline-block;
+
+}
+
+#testDivPosition {
+  position: absolute;
+  right: 100px;
+  bottom: 0px;
+}
